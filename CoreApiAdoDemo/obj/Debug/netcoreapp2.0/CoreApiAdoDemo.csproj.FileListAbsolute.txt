@@ -1,0 +1,15 @@
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\appsettings.json
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\CoreApiAdoDemo.deps.json
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\CoreApiAdoDemo.runtimeconfig.json
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\CoreApiAdoDemo.runtimeconfig.dev.json
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\CoreApiAdoDemo.dll
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\bin\Debug\netcoreapp2.0\CoreApiAdoDemo.pdb
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.csproj.AssemblyReference.cache
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.AssemblyInfoInputs.cache
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.AssemblyInfo.cs
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.csproj.CoreCompileInputs.cache
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.dll
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.pdb
+D:\NetCore\AspCoreWebApiDemo-master\AspCoreWebApiDemo-master\CoreApiAdoDemo\CoreApiAdoDemo\obj\Debug\netcoreapp2.0\CoreApiAdoDemo.genruntimeconfig.cache
